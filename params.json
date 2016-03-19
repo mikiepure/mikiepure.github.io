@@ -1,6 +1,0 @@
-{
-  "name": "mikiepure",
-  "tagline": "",
-  "body": "### Software\r\n\r\n#### Win+R Launcher\r\n\r\n##### 概要\r\n\r\nこのソフトウェアは、「ファイル名を指定して実行」をランチャーとして使用するための、ユーティリティーソフトウェアです。\r\n\r\n##### スクリーンショット\r\n\r\n(TBD)\r\n\r\n##### システム要件\r\n\r\n* .NET Framework 4.5.2 以上\r\n\r\n##### ダウンロード\r\n\r\n* Win+R Launcher ver 0.1.0.4\r\n\r\n##### ソースコード\r\n\r\n* https://github.com/mikiepure/WinRLauncher",
-  "note": "Don't delete this file! It's used internally to help with page regeneration."
-}
